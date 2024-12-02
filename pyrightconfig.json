@@ -1,0 +1,14 @@
+{
+  "venvPath": "./",
+  "venv": "venv",
+  "pythonVersion": "3.10",
+  "pythonPlatform": "Linux",
+  "reportMissingImports": true,
+  "reportOptionalSubscript": false,
+  "typeCheckingMode": "basic",
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    ".venv"
+  ]
+}

@@ -1,0 +1,26 @@
+# Ignore environment variables and sensitive files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore the virtual environment
+venv/
+.Venv/
+env/
+ENV/
+.venv/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.sublime-*
+
+# Ignore Git metadata (automatic, but can be explicit)
+.git
+
